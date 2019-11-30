@@ -14,7 +14,7 @@ else if (Math.abs(minNum%2) === 1) {
       console.log(i);
     }
     }
-  else {
+ else {
       console.log("Podaj liczby całkowite.");
     }
     
